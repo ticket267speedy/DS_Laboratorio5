@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "TEST-API.LAB5",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
